@@ -1,0 +1,12 @@
+.DS_Store
+*.aux
+*.log
+*.texnicle
+*.gz
+*.blg
+*.pdf
+*.bbl
+*.snm
+*.nav
+*.toc
+*~
